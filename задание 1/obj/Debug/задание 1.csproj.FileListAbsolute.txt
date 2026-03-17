@@ -1,0 +1,24 @@
+C:\Users\artur\Desktop\Главная папка\проги для уника\ЯП\РГР2\задание 1\задание 1\obj\Debug\задание 1.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Главная папка\проги для уника\ЯП\РГР2\задание 1\задание 1\obj\Debug\задание_1.Form1.resources
+C:\Users\artur\Desktop\Главная папка\проги для уника\ЯП\РГР2\задание 1\задание 1\obj\Debug\задание_1.Properties.Resources.resources
+C:\Users\artur\Desktop\Главная папка\проги для уника\ЯП\РГР2\задание 1\задание 1\obj\Debug\задание 1.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Главная папка\проги для уника\ЯП\РГР2\задание 1\задание 1\obj\Debug\задание 1.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Главная папка\проги для уника\ЯП\РГР2\задание 1\задание 1\bin\Debug\задание 1.exe.config
+C:\Users\artur\Desktop\Главная папка\проги для уника\ЯП\РГР2\задание 1\задание 1\bin\Debug\задание 1.exe
+C:\Users\artur\Desktop\Главная папка\проги для уника\ЯП\РГР2\задание 1\задание 1\bin\Debug\задание 1.pdb
+C:\Users\artur\Desktop\Главная папка\проги для уника\ЯП\РГР2\задание 1\задание 1\obj\Debug\задание 1.exe
+C:\Users\artur\Desktop\Главная папка\проги для уника\ЯП\РГР2\задание 1\задание 1\obj\Debug\задание 1.pdb
+C:\Users\artur\Desktop\Главная папка\проги для уника\ЯП\РГР2\задание 1\задание 1\obj\Debug\задание 1.exe.config
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\bin\Debug\задание 1.exe.config
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\bin\Debug\задание 1.exe
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\bin\Debug\задание 1.pdb
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\obj\Debug\задание 1.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\obj\Debug\задание 1.exe.config
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\obj\Debug\задание 1.csproj.ResolveComReference.cache
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\obj\Debug\задание_1.Form1.resources
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\obj\Debug\задание_1.Properties.Resources.resources
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\obj\Debug\задание 1.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\obj\Debug\задание 1.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\obj\Debug\задание 1.exe
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\obj\Debug\задание 1.pdb
+C:\Users\artur\Desktop\Главная папка\проги для уника\ТП\задание 1\задание 1\obj\Debug\Interop.ADOR.dll
